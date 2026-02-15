@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "渚",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-15T07:41:55.293565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_渚_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_渚_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_渚_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_渚_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/05_渚_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/06_渚_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "自力本願レボリューション -渚 ver.-",
+      "artist": "渚",
+      "has_synced": true,
+      "path": "select/07_自力本願レボリューション_-渚_ver.-_渚.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/08_渚_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "Yagami, Junko",
+      "has_synced": true,
+      "path": "select/09_渚_Yagami,_Junko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "渚",
+      "artist": "Junko Yagami (八神純子)",
+      "has_synced": true,
+      "path": "select/10_渚_Junko_Yagami_(八神純子).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "渚 / Nagisa",
+      "artist": "Spitz (スパイダ)",
+      "has_synced": true,
+      "path": "select/11_渚___Nagisa_Spitz_(スパイダ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_渚_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "渚",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_渚_スピッツ.txt"
+    }
+  ]
+}
